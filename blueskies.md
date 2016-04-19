@@ -1,5 +1,5 @@
-# Titlea:
-What regulates chloro
+# Title:
+What regulates chlorophyl
 
 ## Summary
 ## Background
