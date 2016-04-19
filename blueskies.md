@@ -2,7 +2,7 @@
 What regulates chloro
 
 ## Summary
-## Backbriund
+## Background
 
 kiwifruit is pretty big
 
